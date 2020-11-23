@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"busmap.vn/work"
+	"github.com/busmap-vn/work"
 	"github.com/gomodule/redigo/redis"
 )
 

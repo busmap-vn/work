@@ -21,7 +21,7 @@ package main
 
 import (
 	"github.com/gomodule/redigo/redis"
-	"busmap.vn/work"
+	"github.com/busmap-vn/work"
 )
 
 // Make a redis pool
@@ -55,7 +55,7 @@ package main
 
 import (
 	"github.com/gomodule/redigo/redis"
-	"busmap.vn/work"
+	"github.com/busmap-vn/work"
 	"os"
 	"os/signal"
 )

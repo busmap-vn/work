@@ -9,8 +9,8 @@ import (
 
 	"github.com/braintree/manners"
 	"github.com/gocraft/web"
-	"busmap.vn/work"
-	"busmap.vn/work/webui/internal/assets"
+	"github.com/busmap-vn/work"
+	"github.com/busmap-vn/work/webui/internal/assets"
 	"github.com/gomodule/redigo/redis"
 )
 

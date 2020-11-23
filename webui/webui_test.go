@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"busmap.vn/work"
+	"github.com/busmap_vn/work"
 	"github.com/gomodule/redigo/redis"
 	"github.com/stretchr/testify/assert"
 )

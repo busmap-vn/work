@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"busmap.vn/work/webui"
+	"github.com/busmap-vn/work/webui"
 	"github.com/gomodule/redigo/redis"
 )
 

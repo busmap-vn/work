@@ -1,4 +1,4 @@
-module busmap.vn/work
+module github.com/busmap-vn/work
 
 go 1.14
 
